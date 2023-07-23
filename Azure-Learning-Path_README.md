@@ -1,6 +1,6 @@
 # Azure
 
-Watched: 
+Watched: part of AZ-300/AZ-303 course on Azure 
 https://www.youtube.com/watch?v=_TUaTNc8czU
 
 Completed: 
