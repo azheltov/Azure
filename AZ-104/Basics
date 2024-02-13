@@ -15,3 +15,16 @@ Networking (connectivity, security, delivery, monitoring)
 
 Section 3.36min
 PowerShell and CLI
+
+Service Names:
+Get-AzKeyVault                     AzVirtualNetwork
+New-AzKeyVault
+Remove-AzKeyVault
+
+az vm list
+az vm create
+az vm delete
+
+az keyvault delete
+
+az network vnet list
