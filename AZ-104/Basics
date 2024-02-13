@@ -29,4 +29,4 @@ az keyvault delete
 
 az network vnet list
 
-NEW NEW NEW: Microsoft Entra ID
+NEW NEW NEW: AD is (derivative) Microsoft Entra ID
