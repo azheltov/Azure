@@ -1,0 +1,44 @@
+https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.md
+
+manage ms entra users and groups
+mange role-based access control RBAC
+
+Note on the recent and upcoming Exam Changes
+00:13
+Manage Azure AD / Microsoft Entra ID Users
+06:21
+Manage Azure AD / Microsoft Entra ID Groups
+06:32
+Manage Azure AD / Microsoft Entra ID Licenses
+06:52
+Administrative Units
+05:05
+Manage Devices
+04:12
+Bulk Operations
+02:29
+External Users
+04:32
+Self Service Password Reset
+03:53
+Note on the recent and upcoming Exam Changes
+00:06
+Overview of RBAC
+07:59
+Managing Azure Administrator Roles
+03:52
+Switch Storage Account from Access Keys to RBAC
+04:53
+Assigning Myself Permission to a Storage Account
+05:56
+Managing Resources with Roles
+04:32
+Creating Custom RBAC Roles
+07:10
+05:23
+Interpret Access Assignments
+02:38
+Deny Assignments
+05:26
+Section 5 Wrapup
+00:59
