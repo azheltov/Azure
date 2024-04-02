@@ -1,0 +1,61 @@
+Accounts, Subscriptions, and Resource Groups
+06:55
+The Subscription Dashboard
+06:35
+Cost Management - Analysis, Alerts, Budget, Advisor
+06:16
+Resource Locks
+06:18
+09:28
+Testing Azure Policy
+07:58
+Create a Custom Policy
+08:40
+Apply and manage tags on resources
+05:03
+Move Resources
+03:34
+Managing Policy by PowerShell
+09:53
+Subscriptions and Management Groups
+07:14
+HANDS-ON LABS: Subscriptions
+00:11
+HANDS-ON LABS: Policy
+00:09
+Section 1 Wrapup
+00:53
+
+Create Storage Account
+09:07
+Storage Account: Advanced Options
+06:38
+Storage Account: Public vs Private Networking
+03:35
+Storage Account: Data Protection
+04:53
+Storage Account: Encryption
+02:24
+Storage Account: Final Creation
+02:38
+Storage Accounts: Blobs, Files, Queues and Tables
+10:43
+Access Keys and SAS
+07:01
+Stored Access Policies
+03:51
+Redundant Storage
+05:48
+Access Tiers
+08:39
+Entra ID (Azure AD) Access Control for Storage
+04:54
+Azure File Shares Soft Delete
+05:32
+Azure File Shares Snapshots
+03:40
+Azure Blob Storage Versioning
+06:58
+Section 2 Wrapup
+00:55
+
